@@ -5,7 +5,7 @@ and those are popularity based and collaborative filtering based recommendation 
 1)popularity based
 we recommend each and every user the most popular 50 books
 and we extracted those books on the number of the ratings on that book
-and then we sorted the list in desecting order of the avgerage rating for each book
+and then we sorted the list in desecting order of the average rating for each book
 2)collaborative filtering based
 It recommends the book on the basis of ratings received from the particular no.
 of users first we build a table which contains true_readers here true_readers means
